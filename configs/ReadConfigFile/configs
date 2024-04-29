@@ -1,0 +1,10 @@
+#browser type: chrome 
+  browser = chrome
+
+#initial URL
+ url.base = https://www.google.com/
+ 
+ 
+ 
+ 
+ 
